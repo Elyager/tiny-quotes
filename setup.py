@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(  
     name="tQuotes",
-    version='0.0.3',
+    version='0.0.4',
     description = 'A library to get quotes from www.goodread.com.',
     long_description="A library to get quotes from www.goodread.com and maybe another websites later, maybe... maybe not.",
     author="Erik Ochoa",
