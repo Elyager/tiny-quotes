@@ -1,2 +1,5 @@
 .pypirc
 __pycache__
+tq_env
+dist
+tQuotes.egg-info
