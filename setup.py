@@ -12,6 +12,6 @@ setup(
     packages=['quotes'],
     install_requires=[
         'beautifulsoup4==4.6.0',
-        'requests==2.18.4'
+        'requests==2.20.0'
     ]
 )
